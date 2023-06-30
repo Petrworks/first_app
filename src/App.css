@@ -8,6 +8,13 @@
   pointer-events: none;
 }
 
+.Navigation {
+  padding-bottom: 30px;
+}
+.Main {
+  font-size: 20px;
+  font-weight: 300;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
